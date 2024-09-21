@@ -1,0 +1,11 @@
+/* for 02 code of html  */
+td{
+    border: 2px solid black;
+}
+ /* 04 code  */
+.red{
+    background-color: rgb(3, 93, 172)
+}
+#seconddiv{
+    background-color: rgb(198, 0, 0);
+}
